@@ -1,4 +1,4 @@
-/* Created by Tivotal */
+
 
 let btn = document.querySelector(".fa-bars");
 let sidebar = document.querySelector(".sidebar");
